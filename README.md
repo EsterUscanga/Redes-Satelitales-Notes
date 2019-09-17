@@ -110,3 +110,15 @@ Los dos momentos críticos que delimitan las coberturas en los satélites, que s
 |Super alta frecuencia|	SHF	|10|	3 – 30 GH 100 mm – 10 mm|	Radioastronomía, Comunicaciones por microondas, Redes inalámbricas, radares modernos, Comunicaciones por satélite, Televisión por satélite, DBS, Radioafición|
 |Frecuencia extremadamente alta	|EHF|	11|	30 – 300 GHz 10 mm – 1 mm	|Radioastronomía, Transmisión por microondas de alta frecuencia, Teledetección, Radioafición, armas de microondas, Escáner de ondas milimétricas|
 |Terahercios o Frecuencia tremendamente alta|	THz or THF|	12	|300 – 3,000 GHz 1 mm – 100 μm	|Radiografía de terahercios un posible substituto para los rayos X en algunas aplicaciones médicas, Dinámica molecular ultrarápida, Física de la materia condensada, Espectroscopía mediante terahercios, Comunicaciones/computación mediante terahercios, Teledetección submilimétrica, Radioafición|
+
+## Rangos de frecuencia 
+![](https://upload.wikimedia.org/wikipedia/commons/a/a4/Amfm3-en-de.gif)
+### AM
+La modulación de amplitud o amplitud modulada (AM) es una técnica utilizada en la comunicación electrónica, más comúnmente para la transmisión de información a través de una onda transversal de televisión. La modulación en amplitud (AM) funciona mediante la variación de la amplitud de la señal transmitida en relación con la información que se envía. Contrastando esta con la modulación de frecuencia, en la que se varía la frecuencia, y la modulación de fase, en la que se varía la fase. A mediados de la década de 1870, una forma de modulación de amplitud, inicialmente llamada "corrientes ondulatorias", fue el primer método para enviar con éxito audio a través de líneas telefónicas con una calidad aceptable.
+### FM
+La modulación de frecuencia,1​2​ o frecuencia modulada (FM),3​ es una técnica de modulación que permite transmitir información a través de una onda portadora variando su frecuencia. En aplicaciones analógicas, la frecuencia instantánea de la señal modulada es proporcional al valor instantáneo de la señal moduladora. Se puede enviar datos digitales por el desplazamiento de la onda de frecuencia entre un conjunto de valores discretos, modulación conocida como modulación por desplazamiento de frecuencia.
+
+La modulación de frecuencia se usa comúnmente en las radiofrecuencias de muy alta frecuencia por la alta fidelidad de la radiodifusión de la música y el habla. El sonido de la televisión analógica también se difunde por medio de FM. Se utiliza una transmisión de banda estrecha para comunicaciones de voz en la radio comercial y en las configuraciones de aficionados. El tipo que se usa en la radiodifusión FM generalmente se llama FM amplia o W-FM (de la siglas en inglés "Wide-FM"). En la radio de dos vías, se utiliza la FM de banda estrecha o N-FM (de la siglas en inglés "Narrow-FM") para ahorrar ancho de banda. Además, se utiliza para enviar señales al espacio.
+### Frecuencia de mi celular
+
+![image](https://user-images.githubusercontent.com/14984859/65005949-3fae7480-d8c7-11e9-913c-e1bcd624f590.png)
