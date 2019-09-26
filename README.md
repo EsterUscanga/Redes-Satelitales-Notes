@@ -1,4 +1,49 @@
-# Redes Satelitales Notes
+![](https://user-images.githubusercontent.com/14984859/58754825-0a0f8800-849e-11e9-84cd-2b4d28197e9b.png)
+
+<h2 align="right">
+Redes Satelitales
+</h2>
+<br>
+<br>
+
+<h3 align="right">
+Portafolio de evidencias
+</h3>
+<br>
+<br>
+
+
+<h3 align="right">
+Profesor: Ing. Edgar Oswaldo de Luna Gallegos
+</h3>
+
+<h3 align="right">
+Alumna: Ester Uscanga Olea
+</h3>
+<br>
+<br>
+
+<h3 align="right">
+ISEI09B
+</h3>
+<br>
+<br>
+
+<h3 align="right">
+Programa educativo: Ingenieria en  Sistemas Estrategicos de Informacion
+</h3>
+<br>
+<br>
+
+<br>
+<br>
+
+<h3 align="left">
+Septiembre - Diciembre, Aguascalientes, Ags.
+</h3>
+<br>
+<br>
+
 |Unidad | Nombre de Unidad | Porcentaje |
 |---|---|---|
 |1| Fundamentos técnicos y de negocios | 25%|
@@ -70,11 +115,38 @@ R: Una órbita geoestacionaria o GEO (del inglés geosynchronous equatorial orbi
 ### 10. Cual es el costo aproximado para implementar un proyecto satelital
 El desarrollo completo de un proyecto satelital cuesta poco más de US$300 millones, cifra que incluye la fabricación de éste, el lanzamiento desde una base terrestre (impulsado por un cohete aportado por terceros) y los seguros. El solo lanzamiento del aparato puede llegar a costar unos US$100 millones.
 ### 11. Que son los desiveles y para que se utilizan en los satelites
+
+El decibelio (dB) es una unidad que se utiliza para medir la intensidad del sonido y otras magnitudes físicas. Un decibelio es la décima parte de un belio (B), unidad que recibe su nombre por Graham Bell, el inventor del teléfono. Su escala logarítmica es adecuada para representar el espectro auditivo del ser humano.
+
+El decibelio del nivel de presión sonora (dB SPL) toma como referencia el menor nivel de presión sonora que el oído humano medio puede detectar. El menor sonido audible para el ser humano es típicamente 0 dB SPL (umbral de audición). En la práctica, «dB» a menudo significa «dB SPL».
+
+La escala de decibelios es logarítmica, por lo que un aumento de tres decibelios en el nivel de sonido ya representa una duplicación de la intensidad del ruido. Por ejemplo, una conversación normal puede ser de aproximadamente 65 dB y, por lo general, un grito es de 80 dB. La diferencia es de tan sólo 15 dB, pero el grito es 30 veces más intenso.
+
+Hay que tener en cuenta que intensidad no es exactamente lo mismo que nivel de presión sonora. Para poder tener en cuenta el hecho que el oído humano percibe los sonidos especialmente graves o agudos como menos intensos, el ruido suele medirse en decibelios con ponderación A (dB(A)).
+
 ### 12. Menciona por lo menos 3 bandas de frecuencia
 TLF: Frecuencia Extremadamente baja, ELF: Frecuencia Extremadamente Baja, SLF: Super Baja Frecuencia.
 
 ### 13. Que es la opacidad atmosferica y que relacion tiene con las bandas de frecuencia?
+
+La opacidad, referida al aire que nos rodea, es lo contrario a la visibilidad. Se dice que la atmósfera está opaca cuando, como consecuencia de la cantidad de partículas sólidas en suspensión que contiene, dificulta la visibilidad clara y definida de los objetos más o menos distantes.
+
 ### 14. Menciona por lo menos 3 rangos de bandas de frecuencias y sus usos
+
+#### Banda A y B (Banda Radar HF y VHF)
+Bandas de Frecuencias Reservadas: Bandas de frecuencias del Espectro Radioeléctrico destinadas para uso exclusivo de los organismos y entidades estatales.  Los derechos de uso del espectro otorgados en bandas reservadas, no son transferibles fuera del ámbito gubernamental. La autorización de uso de frecuencias en bandas reservadas, no se representa con un título de usufructo sino que por una resolución emitida por la Superintendencia de Telecomunicaciones.
+Estas bandas de radar por debajo de 300 MHz tienen una larga tradición histórica, porque estas frecuencias representan la frontera de la tecnología de radio en el tiempo durante la Segunda Guerra Mundial. Hoy en día estas frecuencias se utilizan para los radares de alerta temprana llamados radares sobre el horizonte (OTH).
+
+#### Banda C (Banda Radar UHF)
+Existen algunos conjuntos de radares especializados, desarrollados para esta banda de frecuencia (300 MHz to1 GHz). Es una buena frecuencia para el funcionamiento de los radares, para la detección y el seguimiento de satélites y misiles balísticos cubriendo largas distancias. Estos radares funcionan para alerta temprana y detección de objetivos como radar de vigilancia para el Sistema de Defensa Aérea Extendida Media (Medium Extended Air Defense System, MEADS). Para algunas aplicaciones como radar meteorológico, ejemplo: perfiladores de viento trabajan con estas frecuencias ya que las ondas electromagnéticas son muy poco afectadas por las nubes y la lluvia.
+
+La nueva tecnología de radares de banda ultra ancha (Ultrawideband, UWB) utiliza todas las frecuencias de las bandas A-a-C. Los radares UWB transmiten pulsos muy bajos en todas las frecuencias simultáneamente. Estos son utilizados para examinar técnicamente materiales y como Radar de Penetración Terrestre (Ground Penetrating Radar, GPR) para exploraciones arqueológicas.
+
+#### Banda C (Banda Radar UHF)
+Existen algunos conjuntos de radares especializados, desarrollados para esta banda de frecuencia (300 MHz to1 GHz). Es una buena frecuencia para el funcionamiento de los radares, para la detección y el seguimiento de satélites y misiles balísticos cubriendo largas distancias. Estos radares funcionan para alerta temprana y detección de objetivos como radar de vigilancia para el Sistema de Defensa Aérea Extendida Media (Medium Extended Air Defense System, MEADS). Para algunas aplicaciones como radar meteorológico, ejemplo: perfiladores de viento trabajan con estas frecuencias ya que las ondas electromagnéticas son muy poco afectadas por las nubes y la lluvia.
+
+La nueva tecnología de radares de banda ultra ancha (Ultrawideband, UWB) utiliza todas las frecuencias de las bandas A-a-C. Los radares UWB transmiten pulsos muy bajos en todas las frecuencias simultáneamente. Estos son utilizados para examinar técnicamente materiales y como Radar de Penetración Terrestre (Ground Penetrating Radar, GPR) para exploraciones arqueológicas.
+
 ### 15. Menciona cuales son los principales son los principales problemas en la implementacion de satelites
 - Longitud finita en el anillo geoestacionario
     - Es evidente que sólo un número limitado de satélites pueden operar en la órbita geoestacionaria. Esto ha dado lugar a un conflicto entre diferentes países que desean acceder a los mismos segmentos orbitales (países en la misma longitud, pero diferentes latitudes).
