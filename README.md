@@ -194,3 +194,5 @@ La modulación de frecuencia se usa comúnmente en las radiofrecuencias de muy a
 ### Frecuencia de mi celular
 
 ![image](https://user-images.githubusercontent.com/14984859/65005949-3fae7480-d8c7-11e9-913c-e1bcd624f590.png)
+
+![satelite](https://user-images.githubusercontent.com/14984859/65832809-7e143e00-e28e-11e9-8d46-14e59aeeabf9.png)
