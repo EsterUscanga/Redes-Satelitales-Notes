@@ -196,3 +196,90 @@ La modulación de frecuencia se usa comúnmente en las radiofrecuencias de muy a
 ![image](https://user-images.githubusercontent.com/14984859/65005949-3fae7480-d8c7-11e9-913c-e1bcd624f590.png)
 
 ![satelite](https://user-images.githubusercontent.com/14984859/65832809-7e143e00-e28e-11e9-8d46-14e59aeeabf9.png)
+
+# Unidad 2. Aplicacion de enlaces de transicion (simplex) a varios usuarios
+
+## Resultados de aprendizaje
+
+### 1. Comprender las posibilidades de servicios como television de entretenimiento para las estaciones de television y cable, video conferencia, negocios, educacion a distancia.
+
+### 2. Identificar los estandares de television digital, tales como MPGE-2 y la serie H de la Union Internacional de Telecomunicaciones UIT.
+
+## Resultados parciales de aprendizaje
+
+### 1. Aprender que son los enlaces de transmicion simplex.
+
+### 2. Identificar las caracteristicas tecnicas de las estaciones de television (TX y RX).
+
+### 3. Observar la arquitectura de los sistemas de television por satelite.
+
+### 4. Analizar los formatos de senales de TV por satelite.
+
+### 5. Identificar y comparar el apuntamiento de antenas.
+
+### 6. Analizar la gama de estandares de television digital
+
+## Evaluaciones
+|Evauacion| Porcentaje |Fecha | 
+|---|---|---|
+ |Cuestionario| 40% | Lunes 14 de Octubre|
+|Cuadro comparativo |30% |Miercoles 16 de Octubre|
+|Portafolio| 30% | Miercoles 16 de Octubre|
+
+### Equipo 3. Ejemplos de transmicion de Fullplex
+
+## Transmicion simplex
+
+|Ventajas| Desventajas|
+|---| ---|
+|Sencillo de implementacion| No comprueba comunicacion|
+|Barato| Un solo canal
+| Tiene mucha utilidad | El receptor no puede dar mensajes
+
+![image](https://user-images.githubusercontent.com/14984859/66087698-0ec47580-e53e-11e9-9642-ca888849db43.png)
+
+### Ejemplos 
+- Impresora
+- TV
+- Contro Remoto
+
+## Transmicion halfduplex
+|Ventajas| Desventajas|
+|---| ---|
+| El receptor siempre recibe el mensaje| La comunicacion es lenta|
+| Sabemos cuando le llego el mensaje al receptor| Comunicacion por turnos|
+| No hay interferencia |
+
+![image](https://user-images.githubusercontent.com/14984859/66087791-51864d80-e53e-11e9-8226-ccc1be7e2349.png)
+
+## Ejemplos
+
+- Walkie Talkie
+- Conexion Bluetooth
+- Infrarojo
+
+## Transmicion fullduplex
+
+|Ventajas| Desventajas|
+|---| ---|
+|2 canales | Mucho ruido|
+|Funciona como receptor y transmisor al mismo tiempo| Caro|
+|Conexion rapida|Pierde mucha informacion|
+
+
+![image](https://user-images.githubusercontent.com/14984859/66087802-64991d80-e53e-11e9-98ea-fabd0d4482a1.png)
+
+### Ejemplos
+
+- Video llamada
+- Telefonia
+- USB
+
+### Tarea para el lunes 4 de octubre Investigar  las caracteristicas tecnicas de las estaciones de television (TX y RX).
+
+
+En telecomunicaciones, la transmisión (abreviaturas: TX, Xmit) es el proceso de enviar y propagar una señal de información analógica o digital a través de un medio físico de transmisión punto a punto o punto a multipunto, ya sea por cable, fibra óptica o inalámbrica. 
+
+Las tecnologías y esquemas de transmisión generalmente se refieren a tareas de protocolo de capa física como modulación, demodulación, codificación de línea, ecualización, control de errores, sincronización de bits y multiplexación, pero el término también puede implicar tareas de protocolo de capa superior, por ejemplo, digitalizar una señal analógica, y compresión de datos.
+
+Un ejemplo de transmisión es el envío de una señal con una duración limitada, por ejemplo, un bloque o paquete de datos, una llamada telefónica o un correo electrónico. La transmisión de un mensaje digital, o de una señal analógica digitalizada, se conoce como transmisión de datos.
