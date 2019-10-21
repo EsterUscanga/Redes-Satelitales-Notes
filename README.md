@@ -283,3 +283,30 @@ En telecomunicaciones, la transmisión (abreviaturas: TX, Xmit) es el proceso de
 Las tecnologías y esquemas de transmisión generalmente se refieren a tareas de protocolo de capa física como modulación, demodulación, codificación de línea, ecualización, control de errores, sincronización de bits y multiplexación, pero el término también puede implicar tareas de protocolo de capa superior, por ejemplo, digitalizar una señal analógica, y compresión de datos.
 
 Un ejemplo de transmisión es el envío de una señal con una duración limitada, por ejemplo, un bloque o paquete de datos, una llamada telefónica o un correo electrónico. La transmisión de un mensaje digital, o de una señal analógica digitalizada, se conoce como transmisión de datos.
+
+## Tipos de senales:
+
+**Omnidireccional:** patron ideal
+**Direccionales:** direcion especifica
+**Radiacion sectorial:** una zona especifica deoendiendo la zona 
+
+## Antenas
+
+**Elementales:** cuando la longitud de onda es mayor a la dimension de la antena
+
+**Resonantes:** la dimension de la antena es igual a media longitud de onda
+
+**Directivas:** cuando la diension es menor a la longitud de ondas
+
+## Apuntamiento de antenas
+
+- Maximo error admisible de 0.2°
+
+    -   Localizacion geografica (latitud-longitud)
+    - Ubicacion del satelite geoestacionario
+
+**Elevacion:** elevar la antena desde el horizonte
+
+** Azimot:** angulo horizontal desde el polo norte
+
+**Polarizacion:** angulo al que hay que girar el conversor de antena
